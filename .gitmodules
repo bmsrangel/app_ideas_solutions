@@ -1,3 +1,6 @@
 [submodule "bin2dec"]
 	path = bin2dec
 	url = https://github.com/bmsrangel/app-ideas_bin2dec.git
+[submodule "roman2decimal"]
+	path = roman2decimal
+	url = https://github.com/bmsrangel/app-ideas_roman2decimal.git
